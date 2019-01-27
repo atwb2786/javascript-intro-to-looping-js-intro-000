@@ -26,7 +26,7 @@ function doWhileLoop(array) {
   }
   do {
     i++;
-    console.log(i);
+    array.pop;
   } while (array.length > 0 && incrementVariable());
   return array;
 }
